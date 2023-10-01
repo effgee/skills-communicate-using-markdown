@@ -7,3 +7,9 @@
 ``` javascript
 var myVar = "Hello World";
 ```
+``` python
+import math
+
+#colours
+WHITE = (255, 255, 255)
+```
